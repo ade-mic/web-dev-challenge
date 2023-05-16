@@ -1,2 +1,3 @@
-Web Development Challenge with Angela Yu from App Brewery London
+Web Development Challenge with Angela Yu of AppBrewery London.
+
 Ful-stack Web Development Lessons
